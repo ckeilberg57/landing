@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="1458 -138 502 302" width="502" height="302">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.19.5\n2022-08-10 16:44:08 +0000</metadata>
+  <g id="Expert_Landing" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>Expert Landing</title>
+    <g id="Expert_Landing_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_11">
+        <g id="Graphic_9">
+          <path d="M 1479 -137 L 1939 -137 C 1950.0457 -137 1959 -128.0457 1959 -117 L 1959 143 C 1959 154.0457 1950.0457 163 1939 163 L 1479 163 C 1467.9543 163 1459 154.0457 1459 143 L 1459 -117 C 1459 -128.0457 1467.9543 -137 1479 -137 Z" fill="#c2ccd7"/>
+          <path d="M 1479 -137 L 1939 -137 C 1950.0457 -137 1959 -128.0457 1959 -117 L 1959 143 C 1959 154.0457 1950.0457 163 1939 163 L 1479 163 C 1467.9543 163 1459 154.0457 1459 143 L 1459 -117 C 1459 -128.0457 1467.9543 -137 1479 -137 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_10">
+          <path d="M 1494 -112 L 1924 -112 C 1929.5228 -112 1934 -107.52285 1934 -102 L 1934 128 C 1934 133.52285 1929.5228 138 1924 138 L 1494 138 C 1488.4772 138 1484 133.52285 1484 128 L 1484 -102 C 1484 -107.52285 1488.4772 -112 1494 -112 Z" fill="#020911"/>
+          <path d="M 1494 -112 L 1924 -112 C 1929.5228 -112 1934 -107.52285 1934 -102 L 1934 128 C 1934 133.52285 1929.5228 138 1924 138 L 1494 138 C 1488.4772 138 1484 133.52285 1484 128 L 1484 -102 C 1484 -107.52285 1488.4772 -112 1494 -112 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(1489 -50.177734)" fill="white">
+            <tspan font-family="Arial" font-size="36" fill="white" x="68.93359" y="33">Team Manu Expert</tspan>
+            <tspan font-family="Arial" font-size="36" fill="white" x="29.20703" y="117.17773">Welcome Landing Page</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

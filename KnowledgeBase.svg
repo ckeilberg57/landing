@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="2002 931 302 502" width="302" height="502">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.19.5\n2022-08-10 16:47:39 +0000</metadata>
+  <g id="Knowledge_Base" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>Knowledge Base</title>
+    <g id="Knowledge_Base_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_7">
+        <g id="Graphic_3">
+          <path d="M 2023 932 L 2283 932 C 2294.0457 932 2303 940.9543 2303 952 L 2303 1412 C 2303 1423.0457 2294.0457 1432 2283 1432 L 2023 1432 C 2011.9543 1432 2003 1423.0457 2003 1412 L 2003 952 C 2003 940.9543 2011.9543 932 2023 932 Z" fill="#c2ccd7"/>
+          <path d="M 2023 932 L 2283 932 C 2294.0457 932 2303 940.9543 2303 952 L 2303 1412 C 2303 1423.0457 2294.0457 1432 2283 1432 L 2023 1432 C 2011.9543 1432 2003 1423.0457 2003 1412 L 2003 952 C 2003 940.9543 2011.9543 932 2023 932 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_2">
+          <path d="M 2038 957 L 2268 957 C 2273.5228 957 2278 961.4772 2278 967 L 2278 1397 C 2278 1402.5228 2273.5228 1407 2268 1407 L 2038 1407 C 2032.4772 1407 2028 1402.5228 2028 1397 L 2028 967 C 2028 961.4772 2032.4772 957 2038 957 Z" fill="#020911"/>
+          <path d="M 2038 957 L 2268 957 C 2273.5228 957 2278 961.4772 2278 967 L 2278 1397 C 2278 1402.5228 2273.5228 1407 2268 1407 L 2038 1407 C 2032.4772 1407 2028 1402.5228 2028 1397 L 2028 967 C 2028 961.4772 2032.4772 957 2038 957 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <clipPath id="clip_path">
+            <path d="M 10 0 L 240 0 C 245.52285 0 250 4.4771525 250 10 L 250 440 C 250 445.52285 245.52285 450 240 450 L 10 450 C 4.4771525 450 0 445.52285 0 440 L 0 10 C 0 4.4771525 4.4771525 0 10 0 Z" fill="#020911"/>
+          </clipPath>
+          <text clip-path="url(#clip_path)" transform="translate(2033 1139.8223)" fill="white">
+            <tspan font-family="Arial" font-size="36" fill="white" x="30.93164" y="33">Knowledge </tspan>
+            <tspan font-family="Arial" font-size="36" fill="white" x="78.97266" y="75.17773">Base</tspan>
+          </text>
+        </g>
+        <g id="Graphic_4">
+          <path d="M 2039.5 965 L 2119.5 965 C 2121.433 965 2123 966.567 2123 968.5 L 2123 968.5 C 2123 970.433 2121.433 972 2119.5 972 L 2039.5 972 C 2037.567 972 2036 970.433 2036 968.5 L 2036 968.5 C 2036 966.567 2037.567 965 2039.5 965 Z" fill="white"/>
+          <path d="M 2039.5 965 L 2119.5 965 C 2121.433 965 2123 966.567 2123 968.5 L 2123 968.5 C 2123 970.433 2121.433 972 2119.5 972 L 2039.5 972 C 2037.567 972 2036 970.433 2036 968.5 L 2036 968.5 C 2036 966.567 2037.567 965 2039.5 965 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5">
+          <path d="M 2039.5 977 L 2119.5 977 C 2121.433 977 2123 978.567 2123 980.5 L 2123 980.5 C 2123 982.433 2121.433 984 2119.5 984 L 2039.5 984 C 2037.567 984 2036 982.433 2036 980.5 L 2036 980.5 C 2036 978.567 2037.567 977 2039.5 977 Z" fill="white"/>
+          <path d="M 2039.5 977 L 2119.5 977 C 2121.433 977 2123 978.567 2123 980.5 L 2123 980.5 C 2123 982.433 2121.433 984 2119.5 984 L 2039.5 984 C 2037.567 984 2036 982.433 2036 980.5 L 2036 980.5 C 2036 978.567 2037.567 977 2039.5 977 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_6">
+          <path d="M 2039.5 989 L 2119.5 989 C 2121.433 989 2123 990.567 2123 992.5 L 2123 992.5 C 2123 994.433 2121.433 996 2119.5 996 L 2039.5 996 C 2037.567 996 2036 994.433 2036 992.5 L 2036 992.5 C 2036 990.567 2037.567 989 2039.5 989 Z" fill="white"/>
+          <path d="M 2039.5 989 L 2119.5 989 C 2121.433 989 2123 990.567 2123 992.5 L 2123 992.5 C 2123 994.433 2121.433 996 2119.5 996 L 2039.5 996 C 2037.567 996 2036 994.433 2036 992.5 L 2036 992.5 C 2036 990.567 2037.567 989 2039.5 989 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
