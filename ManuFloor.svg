@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-775 563 182 185" width="182" height="185">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.19.5\n2022-09-09 16:40:10 +0000</metadata>
+  <g id="Launch_Manufacturing" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill="none">
+    <title>Launch Manufacturing</title>
+    <g id="Launch_Manufacturing_Layer_1">
+      <title>Layer 1</title>
+      <g id="Group_9">
+        <g id="Graphic_2">
+          <path d="M -730 747 L -730 624.6 L -724.8 611 L -678 611 L -678 733.4 L -683.2 747 Z" fill="#0a2136"/>
+          <path d="M -730 747 L -730 624.6 L -724.8 611 L -678 611 L -678 733.4 L -683.2 747 L -730 747 M -730 624.6 L -683.2 624.6 L -678 611 M -683.2 624.6 L -683.2 747" stroke="#c2ccd7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_3">
+          <path d="M -678 747 L -678 582.3 L -672.8 564 L -626 564 L -626 728.7 L -631.2 747 Z" fill="#0a2136"/>
+          <path d="M -678 747 L -678 582.3 L -672.8 564 L -626 564 L -626 728.7 L -631.2 747 L -678 747 M -678 582.3 L -631.2 582.3 L -626 564 M -631.2 582.3 L -631.2 747" stroke="#c2ccd7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_4">
+          <path d="M -678 747 L -678 667.8 L -672.8 659 L -626 659 L -626 738.2 L -631.2 747 Z" fill="#0a2136"/>
+          <path d="M -678 747 L -678 667.8 L -672.8 659 L -626 659 L -626 738.2 L -631.2 747 L -678 747 M -678 667.8 L -631.2 667.8 L -626 659 M -631.2 667.8 L -631.2 747" stroke="#c2ccd7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_6">
+          <path d="M -774 747 L -774 652.5 L -768.8 642 L -722 642 L -722 736.5 L -727.2 747 Z" fill="#0a2136"/>
+          <path d="M -774 747 L -774 652.5 L -768.8 642 L -722 642 L -722 736.5 L -727.2 747 L -774 747 M -774 652.5 L -727.2 652.5 L -722 642 M -727.2 652.5 L -727.2 747" stroke="#c2ccd7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_7">
+          <path d="M -646 747 L -646 621 L -640.8 607 L -594 607 L -594 733 L -599.2 747 Z" fill="#0a2136"/>
+          <path d="M -646 747 L -646 621 L -640.8 607 L -594 607 L -594 733 L -599.2 747 L -646 747 M -646 621 L -599.2 621 L -594 607 M -599.2 621 L -599.2 747" stroke="#c2ccd7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_5">
+          <text transform="translate(-750 692.7056)" fill="white">
+            <tspan font-family="Arial" font-size="18" fill="white" x="0" y="16">Connect to Floor</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
